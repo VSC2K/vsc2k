@@ -8,7 +8,8 @@
 
 ###
 
-<h2 align="left">Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.<br>Tenho focado meus estudos em Node.js e React, com o objetivo de me tornar um desenvolvedor fullstack e transformar cada aprendizado em projetos reais ao longo da minha jornada.</h2>
+<h2 align="left">Sou um desenvolvedor em formação, movido pela vontade de criar soluções que façam a diferença. Estou mergulhado no universo do Node.js e do React, com o objetivo claro: me tornar um fullstack developer capaz de transformar ideias em projetos reais.
+Cada código que escrevo é mais do que prática — é um passo a mais rumo à carreira que estou construindo com propósito, curiosidade e muita vontade de aprender.</h2>
 
 ###
 
