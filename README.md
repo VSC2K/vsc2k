@@ -63,7 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/vsc2k/vsc2k/output/snake.svg" alt="Snake animation" />
-
-###
