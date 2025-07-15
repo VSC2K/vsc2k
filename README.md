@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/vsc2k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="tel:(61) 99417-0592" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5561994170592&text=Olá%2C%20Tudo%20bem%20Vinícius%3F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
